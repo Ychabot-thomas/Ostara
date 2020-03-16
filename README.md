@@ -1,2 +1,2 @@
 # Ostara
-Projet de fin d'année Gobelin
+Projet de fin d'année École des Gobelins
